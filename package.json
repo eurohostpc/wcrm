@@ -1,0 +1,22 @@
+{
+  "name": "wcrm",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eurohostpc/wcrm.git"
+  },
+  "keywords": [
+    "wcrm"
+  ],
+  "author": "eurohost.pro",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/eurohostpc/wcrm/issues"
+  },
+  "homepage": "https://github.com/eurohostpc/wcrm#readme"
+}
