@@ -1,1 +1,1 @@
-git add --all && git commit -m "comment"
+git add --all && git commit -m "comment" ; git push https://github.com/eurohostpc/wcrm.git ;
